@@ -8,4 +8,3 @@ Youtube downloader RPA (Robotic Process Automation) Using UIPath
 4. Click the Run button in UIPath
 5. The script will ask for the CSV files to be processed. Just select the CSV file you just created.
 6. The RPA will open a browser and download the youtube videos. It will ask you to press the OK button once the file has been downloaded so that it can continue to the next youtube link.
-7. Enjoy.
